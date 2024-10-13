@@ -29,12 +29,12 @@ const CTA = () => {
               className="animate_left md:w-[70%] lg:w-1/2"
             >
               <h2 className="mb-4 w-11/12 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle4">
-                Join With Us Today & Increase Your Productivity
+                立即加入我们，提高您的生产力
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-                convallis tortor eros. Donec vitae tortor lacus. Phasellus
-                aliquam ante in maximus.
+                我们的平台为您提供了强大的工具和功能，帮助您提高工作效率，简化流程。
+                无论您是个人用户还是企业客户，都能从中受益。立即加入我们，体验更高效的
+                工作方式。
               </p>
             </motion.div>
             <motion.div

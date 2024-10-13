@@ -3,77 +3,95 @@ import { Menu } from "@/types/menu";
 const menuData: Menu[] = [
   {
     id: 1,
-    title: "Home",
+    title: "首页",
     newTab: false,
     path: "/",
   },
   {
     id: 2,
-    title: "Features",
+    title: "功能",
     newTab: false,
     path: "/#features",
   },
   {
     id: 2.1,
-    title: "Blog",
+    title: "博客",
     newTab: false,
     path: "/blog",
   },
   {
     id: 2.3,
-    title: "Docs",
+    title: "文档",
     newTab: false,
     path: "/docs",
   },
   {
     id: 3,
-    title: "Pages",
+    title: "页面",
     newTab: false,
     submenu: [
       {
         id: 31,
-        title: "Blog Grid",
+        title: "博客",
         newTab: false,
         path: "/blog",
       },
       {
         id: 34,
-        title: "Sign In",
+        title: "登录",
         newTab: false,
         path: "/auth/signin",
       },
       {
         id: 35,
-        title: "Sign Up",
+        title: "注册",
         newTab: false,
         path: "/auth/signup",
       },
       {
         id: 35,
-        title: "Docs",
+        title: "文档",
         newTab: false,
         path: "/docs",
       },
       {
         id: 35.1,
-        title: "Support",
+        title: "支持",
         newTab: false,
         path: "/support",
       },
-      {
-        id: 36,
-        title: "404",
-        newTab: false,
-        path: "/error",
-      },
+      // {
+      //   id: 36,
+      //   title: "404",
+      //   newTab: false,
+      //   path: "/error",
+      // },
     ],
   },
 
   {
     id: 4,
-    title: "Support",
+    title: "优刻云",
     newTab: false,
-    path: "/support",
+    path: "https://www.cloudcvm.com/",
+  },
+  {
+    id: 5,
+    title: "AIGC",
+    newTab: false,
+    path: "/ai",
+  },
+    {
+    id: 6,
+    title: "联系我们",
+    newTab: false,
+    path: "/contact",
+  },
+  {
+    id: 7,
+    title: "商户Q群",
+    newTab: false,
+    path: "/download",
   },
 ];
 

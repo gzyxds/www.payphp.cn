@@ -12,8 +12,8 @@ const Integration = () => {
           <SectionHeader
             headerInfo={{
               title: `INTEGRATIONS`,
-              subtitle: `Remotely Maintain Your Data, From Anywhere, Anytime.`,
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+              subtitle: `随时随地远程维护您的数据。`,
+              description: `这是一段示例文字。它可以包含多个句子，用来详细说明产品或服务的特点。这段文字可以根据实际需求进行修改和扩展。`,
             }}
           />
 

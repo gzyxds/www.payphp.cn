@@ -89,7 +89,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Home
+                       首页
                       </a>
                     </li>
                     <li>
@@ -97,7 +97,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Product
+                        产品
                       </a>
                     </li>
                     <li>
@@ -105,7 +105,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Careers
+                        关于我们
                       </a>
                     </li>
                     <li>
@@ -113,7 +113,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Pricing
+                        价格
                       </a>
                     </li>
                   </ul>
@@ -138,7 +138,7 @@ const Footer = () => {
                   className="animate_top"
                 >
                   <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
-                    Support
+                    支持
                   </h4>
 
                   <ul>
@@ -147,7 +147,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Company
+                        公司
                       </a>
                     </li>
                     <li>
@@ -155,7 +155,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Press media
+                     新闻媒体 
                       </a>
                     </li>
                     <li>
@@ -163,7 +163,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Our Blog
+                        我们的博客
                       </a>
                     </li>
                     <li>
@@ -171,7 +171,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Contact Us
+                        联系我们
                       </a>
                     </li>
                   </ul>
@@ -196,7 +196,7 @@ const Footer = () => {
                   className="animate_top"
                 >
                   <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
-                    Newsletter
+                    新闻通讯
                   </h4>
                   <p className="mb-4 w-[90%]">
                     Subscribe to receive future updates

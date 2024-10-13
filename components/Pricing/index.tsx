@@ -14,7 +14,7 @@ const Pricing = () => {
               headerInfo={{
                 title: `PRICING PLANS`,
                 subtitle: `Simple Pricing`,
-                description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+                description: `这里是一段示例文字。它可以包含多个句子，用来详细说明定价计划的内容。这段文字可以根据实际需求进行修改和扩展。`,
               }}
             />
           </div>

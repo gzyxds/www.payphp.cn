@@ -1,10 +1,10 @@
-# Solid - Free Next.js Web Template and Starter Kit for SaaS
+# Solid - 免费的Next.js网站模板和SaaS启动套件
 
-Solid is a free Next.js template specifically crafted for startups, SaaS, and software websites. It provides an extensive array of necessary sections, elements, and pages required to build a fully-equipped website for any SaaS, software, or startup site. Comes with all cutting edge React and Next.js features - **Built with Next.js 13, React 18 and TypeScript.**
+Solid是一个免费的Next.js模板，专为初创公司、SaaS和软件网站量身定制。它提供了构建功能齐全的SaaS、软件或初创公司网站所需的广泛的必要部分、元素和页面。采用了React和Next.js的所有前沿功能 - **使用Next.js 13、React 18和TypeScript构建。**
 
-This Next.js template's homepage comes with an awesome hero area, logos of associated brands, a features section, an about section, another features section with tabs, counters, and star ratings, integration options, clear call-to-actions, an FAQ section with accordions, a testimonials section, pricing tables, a contact page, a blog, and a distinctive footer.
+这个Next.js模板的主页包含了一个出色的英雄区域、相关品牌的标志、功能部分、关于部分、带有标签的另一个功能部分、计数器和星级评分、集成选项、清晰的行动号召、带有手风琴的FAQ部分、testimonials部分、定价表、联系页面、博客和独特的页脚。
 
-**Solid Next.js template packed with all necessary external pages** - such as login, registration, blog grids, and single blog pages, among others. This broad collection of pages provides all the necessary tools to create a feature-packed, comprehensive, and visually appealing website or landing page for software, a web application, or SaaS.
+**Solid Next.js模板包含所有必要的外部页面** - 如登录、注册、博客网格和单个博客页面等。这广泛的页面集合提供了创建功能丰富、全面且视觉吸引人的软件、Web应用程序或SaaS网站或登陆页面所需的所有工具。
 
 ### [🔥 Get Solid Pro - Next.js SaaS Boilerplate and Starter Kit](https://nextjstemplates.com/templates/solid)
 
@@ -17,20 +17,20 @@ This Next.js template's homepage comes with an awesome hero area, logos of assoc
 ### TailAdmin React PRO vs TailAdmin React FREE Comparison 📊
 
 #### [Solid PRO](https://solid.nextjstemplates.com/)
-- SaaS Boilerplate + Starter Kit with Essential Integrations and Functionalities
-- Essential Integrations: Auth, DB, Stripe, MDX and More ...
-- Fully Functional, Ready to Use Sanity Blog Support
-- Premium Email Support
-- Functional External Pages
-- Free Lifetime Future Updates
+- SaaS样板 + 启动套件，包含基本集成和功能
+- 基本集成：身份验证、数据库、Stripe、MDX等...
+- 功能齐全，随时可用的Sanity博客支持
+- 高级电子邮件支持
+- 功能性外部页面
+- 免费终身未来更新
 ___
 #### [Solid FREE](https://solid-free.nextjstemplates.com/)
-- Only UI - Coded for Next.js
-- No Integrations
-- No Functional Blogging System
-- External Pages without Functions/Integrations
-- Community Support
-- Free Lifetime Future Updates
+- 仅UI - 为Next.js编码
+- 无集成
+- 无功能性博客系统
+- 无功能/集成的外部页面
+- 社区支持
+- 免费终身未来更新
 ___
 
 ### [📦 Download](https://nextjstemplates.com/templates/solid)
@@ -46,29 +46,29 @@ ___
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/solid-nextjs)
 
 
-## Installation
+## 安装
 
-Here are the steps you need to follow to install the dependencies.
+以下是安装依赖项需要遵循的步骤。
 
 1.Download and extract the template from **Next.js Templates.**
 
 2.**cd** into the template directory then run this command to install all the dependencies
     
-```bash
-    npm install
+```
+npm install
 ```
     
 or
     
-```bash
-    yarn install
+```
+yarn install
  ```
 
 
 You can start the project on the local server
     
-```bash
-    npm run dev
+```
+npm run dev
  ```
 
 It’ll start the template on [localhost:3000](http://localhost:3000). 

@@ -11,9 +11,9 @@ const Blog = async () => {
         <div className="animate_top mx-auto text-center">
           <SectionHeader
             headerInfo={{
-              title: `NEWS & BLOGS`,
-              subtitle: `Latest News & Blogs`,
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+              title: `新闻与博客`,
+              subtitle: `最新新闻和博客文章`,
+              description: `这里是一段示例文字。它可以包含多个句子，用来详细说明新闻和博客板块的内容。这段文字可以根据实际需求进行修改和扩展。`,
             }}
           />
         </div>

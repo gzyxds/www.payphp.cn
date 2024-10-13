@@ -16,42 +16,41 @@ const Hero = () => {
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
               <h4 className="mb-4.5 text-lg font-medium text-black dark:text-white">
-                🔥 Solid - A Complete SaaS Web Template
+                🔥 心随你动，让支付更便捷
               </h4>
               <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero ">
-                Free Next.js Template for {"   "}
+                Payphp {"   "}
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark ">
-                  SaaS
+                聚合支付，让生意不再难做
+
                 </span>
               </h1>
               <p>
-                Solid Pro - Packed with all the key integrations you need for
-                swift SaaS startup launch, including - Auth, Database, Sanity
-                Blog, Essential Components, Pages and More. Built-winth -
-                Next.js 13, React 18 and TypeScript.
+                将碎片化的支付世界，重新聚合!
+                链接商户和支付通道。不介入资金清分、为商户提供优势的支付通道、
+                为支付通道提供移动支付商户对接服务!
               </p>
 
               <div className="mt-10">
                 <form onSubmit={handleSubmit}>
                   <div className="flex flex-wrap gap-5">
-                    <input
-                      value={email}
-                      onChange={(e) => setEmail(e.target.value)}
-                      type="text"
-                      placeholder="Enter your email address"
-                      className="rounded-full border border-stroke px-6 py-2.5 shadow-solid-2 focus:border-primary focus:outline-none dark:border-strokedark dark:bg-black dark:shadow-none dark:focus:border-primary"
-                    />
                     <button
-                      aria-label="get started button"
+                      aria-label="立即登录"
+                      className="flex rounded-full bg-primary px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-primaryho"
+                    >
+                      立即登录
+                    </button>
+                    <button
+                      aria-label="立即注册"
                       className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho"
                     >
-                      Get Started
+                      立即注册
                     </button>
                   </div>
                 </form>
 
                 <p className="mt-5 text-black dark:text-white">
-                  Try for free no credit card required.
+                 管理平台功能完善、系统安全稳定、支持高并发、简单易用、支持多渠道接入
                 </p>
               </div>
             </div>
