@@ -1,36 +1,38 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# 查看 https://help.github.com/articles/ignoring-files/ 了解更多关于忽略文件的信息
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-.vscode
-# testing
-/coverage
+# 依赖项
+/node_modules  # Node.js 模块目录
+/.pnp  # Plug'n'Play 依赖目录
+.pnp.js  # Plug'n'Play 配置文件
+.vscode  # Visual Studio Code 配置目录
 
-# next.js
-/.next/
-/out/
+# 测试
+/coverage  # 测试覆盖率报告目录
 
-# contentlayer
-.contentlayer
+# Next.js
+/.next/  # Next.js 构建输出目录
+/out/  # Next.js 静态导出目录
 
-# production
-/build
+# Contentlayer
+.contentlayer  # Contentlayer 生成的内容目录
 
-# misc
-.DS_Store
-*.pem
+# 生产环境
+/build  # 生产环境构建输出目录
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
+# 杂项
+.DS_Store  # macOS 系统文件
+*.pem  # PEM 证书文件
 
-# local env files
-.env*.local
-.env
+# 调试日志
+npm-debug.log*  # npm 调试日志
+yarn-debug.log*  # Yarn 调试日志
+yarn-error.log*  # Yarn 错误日志
+.pnpm-debug.log*  # pnpm 调试日志
 
-# vercel
-.vercel
+# 本地环境文件
+.env*.local  # 本地环境变量文件
+.env  # 环境变量文件
+
+# Vercel
+.vercel  # Vercel 部署配置文件
+node_modules

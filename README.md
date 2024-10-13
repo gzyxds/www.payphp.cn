@@ -65,7 +65,7 @@ yarn install
  ```
 
 
-You can start the project on the local server
+您可以在本地服务器上启动项目
     
 ```
 npm run dev
