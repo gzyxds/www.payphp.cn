@@ -1,17 +1,44 @@
 # Solid - 适用于 SaaS 的免费 Next.js Web 模板和初学者工具包
 
-[](https://github.com/NextJSTemplates/solid-nextjs#solid---free-nextjs-web-template-and-starter-kit-for-saas)
+Solid 是一个强大的 Next.js SaaS 样板和初学者工具包，专为创建功能齐全的 SaaS 创业网站而设计。它包含快速启动下一家 SaaS 初创公司所需的所有关键集成。Solid 配备了无缝启动所需的所有主要集成、组件和页面，包括 Auth、DB、博客、业务页面和其他基本的 UI 元素。
 
-Solid 是专为初创公司、SaaS 和软件网站设计的免费 Next.js 模板。它提供了为任何 SaaS、软件或初创公司网站构建设备齐全的网站所需的大量必要部分、元素和页面。带有所有尖端的 React 和 Next.js 功能 - **使用 Next.js 13、React 18 和 TypeScript 构建。**
+使用 Solid，使用 Next.js 和最先进的技术堆栈开发您的 SaaS 产品变得轻而易举。
 
-这个Next.js模板的主页带有一个很棒的英雄区域、相关品牌的徽标、一个功能部分、一个关于部分、另一个带有选项卡、计数器和星级评定的功能部分、集成选项、清晰的号召性用语、一个带有手风琴的常见问题解答部分、一个推荐部分、定价表、一个联系页面、一个博客和一个独特的页脚。
+### **主要特点：**
 
-**Solid Next.js 模板包含所有必要的外部页面** - 例如登录、注册、博客网格和单个博客页面等。这个广泛的页面集合提供了所有必要的工具，可以为软件、Web 应用程序或 SaaS 创建功能丰富、全面且具有视觉吸引力的网站或登录页面。
+**​尖端技术：​**基于 Next.js 14、React 18 和 TypeScript 构建，您可以享受快速的加载时间、高级功能、最佳的用户体验以及丰富的社区支持优势。
+
+**​理智的博客管理：​**Sanity CMS 通过与 Sanity 的紧密 webhook 集成，通过按需重新验证无缝管理和创建您的博客内容。
+
+**使用 NextAuth 进行无缝多因素身份验证：** 我们已经通过 NextAuth 实现了安全登录功能，使用户能够安全地进行身份验证，并通过密码重置、社交登录、魔术链接和传统身份验证方式访问您的应用程序。
+
+**​PostgreSQL 数据库：​**体验 PostgreSQL 数据库的高性能、可扩展性和可靠性，体验任何提供商（如 Supabase）提供的高性能、可扩展性和可靠性。
+
+**​用于订阅支付的 Stripe 集成：​**支付集成是通过 Stripe 完成的，可以完美地接受订阅付款。
+
+**​更高水平的代码质量：​**我们已按照 Next.js 的推荐设置、最佳实践和规则实施了最佳实践。
+
+**​TypeScript 中：​**整个模板在 TypeScript 中编写脚本。
+
+**​阿尔戈利亚：​**Algolia 集成以获得最佳搜索体验。
+
+​**通过 SMTP 发送交易电子邮件**​： 只需添加 SMTP 凭据即可轻松发送交易电子邮件。
+
+​**MailChimp 时事通讯集成**​： 轻松向用户发送时事通讯并自动将新用户添加到您的 Mailchimp 电子邮件列表中。
+
+**![1689052975972实体设计](https://api.nextjstemplates.com/image/1689052975972solid-design.png)​高品质设计：​**精心打造，专注于现代设计趋势、最佳实践和卓越的用户体验。
+
+**预制 SaaS 页面：** 即用型 SaaS 创业业务页面，例如关于、联系方式、定价、动态博客、动态文档、身份验证集成登录、身份验证集成注册等。
+
+**​综合文档门户：​**内置支持，可利用 MDX 的强大功能开发用户友好的文档门户。
+
+**​基本 UI 组件：​**基本 UI 组件的广泛集合，每个组件都提供各种自定义选项和使用 Tailwind CSS 设置样式的多种变体。
+
+**SEO 和性能优化：** 这意味着旨在快速加载、流畅运行并提供改进的用户体验，并按照所有 SEO 最佳实践进行制作。这可能包括移动响应能
 
 ### [🔥 获取 Solid Pro - Next.js SaaS 样板和初学者工具包](https://nextjstemplates.com/templates/solid)
 
 [](https://github.com/NextJSTemplates/solid-nextjs#-get-solid-pro---nextjs-saas-boilerplate-and-starter-kit)
-
 
 ### [🚀 Solid PRO 现场演示](https://solid.nextjstemplates.com/)
 
