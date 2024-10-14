@@ -9,16 +9,16 @@ const SidebarLink = () => {
           href={`/docs`}
           className={`flex w-full rounded-sm bg-stroke px-3 py-2 text-base text-black dark:bg-blackho dark:text-white`}
         >
-          Introduction
+          介绍
         </Link>
         <Link
           href={`/docs`}
           className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
         >
-          Bootstrap Template Guide
+          Bootstrap 模板指南
         </Link>
         <Link
-          href={`/docs`}
+          href={`/1`}
           className={`flex w-full rounded-sm px-3 py-2 text-base text-black dark:text-white `}
         >
           Style Guide

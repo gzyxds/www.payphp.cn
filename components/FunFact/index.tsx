@@ -56,10 +56,10 @@ const FunFact = () => {
             className="animate_top mx-auto mb-12.5 px-4 text-center md:w-4/5 md:px-0 lg:mb-17.5 lg:w-2/3 xl:w-1/2"
           >
             <h2 className="mb-4 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-              受到全球公司的信赖。
+              全球领先的支付解决方案
             </h2>
             <p className="mx-auto lg:w-11/12">
-              这里是一段描述文字。它可以包含多个句子，用来详细说明产品或服务的特点。这段文字可以根据实际需求进行修改和扩展。
+              Payphp为全球企业提供安全、高效、灵活的支付服务。我们的创新技术和优质服务帮助企业实现无缝支付体验，推动业务增长。
             </p>
           </motion.div>
 
@@ -83,9 +83,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                500K
+                100万+
               </h3>
-              <p className="text-lg lg:text-para2">全球客户</p>
+              <p className="text-lg lg:text-para2">活跃商户</p>
             </motion.div>
             <motion.div
               variants={{
@@ -106,9 +106,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                1M+
+                50亿+
               </h3>
-              <p className="text-lg lg:text-para2">下载量</p>
+              <p className="text-lg lg:text-para2">年交易额</p>
             </motion.div>
             <motion.div
               variants={{
@@ -129,9 +129,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                865
+                200+
               </h3>
-              <p className="text-lg lg:text-para2">获奖数量</p>
+              <p className="text-lg lg:text-para2">支持国家和地区</p>
             </motion.div>
           </div>
         </div>

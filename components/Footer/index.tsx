@@ -266,7 +266,7 @@ const Footer = () => {
               <ul className="flex items-center gap-8">
                 <li>
                   <a href="#" className="hover:text-primary">
-                    English
+                    商户中心
                   </a>
                 </li>
                 <li>

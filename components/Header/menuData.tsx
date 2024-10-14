@@ -26,8 +26,32 @@ const menuData: Menu[] = [
     path: "/docs",
   },
   {
+    id: 4,
+    title: "优刻云",
+    newTab: false,
+    path: "https://www.cloudcvm.com/",
+  },
+  {
+    id: 5,
+    title: "AI创作",
+    newTab: false,
+    path: "https://comnew.cn",
+  },
+  {
+    id: 6,
+    title: "联系我们",
+    newTab: false,
+    path: "/contact",
+  },
+  {
+    id: 7,
+    title: "商户Q群",
+    newTab: false,
+    path: "/download",
+  },
+  {
     id: 3,
-    title: "页面",
+    title: "更多",
     newTab: false,
     submenu: [
       {
@@ -67,31 +91,6 @@ const menuData: Menu[] = [
       //   path: "/error",
       // },
     ],
-  },
-
-  {
-    id: 4,
-    title: "优刻云",
-    newTab: false,
-    path: "https://www.cloudcvm.com/",
-  },
-  {
-    id: 5,
-    title: "AIGC",
-    newTab: false,
-    path: "/ai",
-  },
-    {
-    id: 6,
-    title: "联系我们",
-    newTab: false,
-    path: "/contact",
-  },
-  {
-    id: 7,
-    title: "商户Q群",
-    newTab: false,
-    path: "/download",
   },
 ];
 

@@ -20,9 +20,9 @@ const Testimonial = () => {
           <div className="animate_top mx-auto text-center">
             <SectionHeader
               headerInfo={{
-                title: `TESTIMONIALS`,
-                subtitle: `Client’s Testimonials`,
-                description: `这里是一段示例文字。它可以包含多个句子，用来详细说明客户评价的内容。这段文字可以根据实际需求进行修改和扩展。`,
+                title: `Payphp`,
+                subtitle: `低成本的优质支付体验`,
+                description: `专业的事交给专业的人。`,
               }}
             />
           </div>
