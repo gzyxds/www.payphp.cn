@@ -46,7 +46,7 @@ const Footer = () => {
                 </a>
 
                 <p className="mb-10 mt-5">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  payphp🔥 心随你动，让支付更便捷
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
@@ -56,7 +56,7 @@ const Footer = () => {
                   href="#"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
-                  hello@solid.com
+                  Center@payphp.com
                 </a>
               </motion.div>
 
@@ -199,7 +199,7 @@ const Footer = () => {
                     新闻通讯
                   </h4>
                   <p className="mb-4 w-[90%]">
-                    Subscribe to receive future updates
+                    11111
                   </p>
 
                   <form action="#">
@@ -271,12 +271,12 @@ const Footer = () => {
                 </li>
                 <li>
                   <a href="#" className="hover:text-primary">
-                    Privacy Policy
+                   立即注册
                   </a>
                 </li>
                 <li>
                   <a href="#" className="hover:text-primary">
-                    Support
+                   联系我们
                   </a>
                 </li>
               </ul>
@@ -300,9 +300,9 @@ const Footer = () => {
               viewport={{ once: true }}
               className="animate_top"
             >
-              <p>
-                &copy; {new Date().getFullYear()} Solid. All rights reserved
-              </p>
+                <p>
+                  Copyright © 2020-2023 payphp All Rights Reserved. <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">赣ICP备2023002309号</a>
+                </p>
             </motion.div>
 
             <motion.div
